@@ -5,7 +5,7 @@ import MyCard from "./cards.jsx";
 import Footer from "./footer.jsx";
 
 const Home=()=> {
-	return (
+	return ( 
 		<div className="text-center">
 			<NavBar />
 			<div className="container">
